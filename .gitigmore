@@ -1,0 +1,11 @@
+# https://www.gitignore.io/api/django 작성
+# https://www.gitignore.io/?templates=django에서 수정
+
+### Django ###
+*.log
+*.pot
+* .pyc
+__pycache __ /
+local_settings.py
+db.sqlite3
+media
